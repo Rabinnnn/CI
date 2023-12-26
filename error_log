@@ -1,0 +1,33 @@
+[04-May-2022 09:40:45 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home2/comeinit/public_html/test.php on line 4
+[05-May-2022 07:45:23 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home2/comeinit/public_html/test.php on line 4
+[06-May-2022 03:46:04 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home2/comeinit/public_html/test.php on line 4
+[10-May-2022 17:52:29 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home2/comeinit/public_html/test.php on line 4
+[10-May-2022 17:52:30 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home2/comeinit/public_html/test.php on line 4
+[21-May-2022 14:37:19 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home2/comeinit/public_html/test.php on line 4
+[22-May-2022 04:50:40 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home2/comeinit/public_html/test.php on line 4
+[23-May-2022 00:49:46 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home2/comeinit/public_html/test.php on line 4
+[27-May-2022 10:11:11 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home2/comeinit/public_html/test.php on line 4
+[02-Jun-2022 05:54:44 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home2/comeinit/public_html/test.php on line 4
+[02-Jun-2022 05:54:48 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home2/comeinit/public_html/test.php on line 4
+[13-Jun-2022 23:10:22 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home2/comeinit/public_html/test.php on line 4
+[14-Jun-2022 22:30:17 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home2/comeinit/public_html/test.php on line 4
+[19-Jun-2022 01:12:19 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home2/comeinit/public_html/test.php on line 4
+[20-Jun-2022 22:29:25 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home2/comeinit/public_html/test.php on line 4
+[20-Jun-2022 22:29:28 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home2/comeinit/public_html/test.php on line 4
+[21-Jun-2022 09:01:52 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home2/comeinit/public_html/test.php on line 4
+[21-Jun-2022 14:00:57 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home2/comeinit/public_html/test.php on line 4
+[21-Jun-2022 18:10:03 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home2/comeinit/public_html/test.php on line 4
+[05-Jul-2022 01:42:23 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home2/comeinit/public_html/test.php on line 4
+[06-Jul-2022 08:25:49 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home2/comeinit/public_html/test.php on line 4
+[06-Jul-2022 09:14:33 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home2/comeinit/public_html/test.php on line 4
+[10-Jul-2022 00:55:01 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home2/comeinit/public_html/test.php on line 4
+[15-Jul-2022 02:29:41 UTC] PHP Warning:  Undefined array key "name" in /home2/comeinit/public_html/form-handler.php on line 2
+[15-Jul-2022 02:29:41 UTC] PHP Warning:  Undefined array key "email" in /home2/comeinit/public_html/form-handler.php on line 3
+[15-Jul-2022 02:29:41 UTC] PHP Warning:  Undefined array key "subject" in /home2/comeinit/public_html/form-handler.php on line 4
+[15-Jul-2022 02:29:41 UTC] PHP Warning:  Undefined array key "message" in /home2/comeinit/public_html/form-handler.php on line 5
+[21-Jul-2022 17:33:27 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /home2/comeinit/public_html/test.php on line 4
+[24-Jul-2022 16:37:18 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /home2/comeinit/public_html/test.php on line 4
+[10-Aug-2022 13:49:12 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /home2/comeinit/public_html/test.php on line 4
+[14-Aug-2022 22:45:09 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /home2/comeinit/public_html/test.php on line 4
+[18-Aug-2022 19:44:50 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /home2/comeinit/public_html/test.php on line 4
+[23-Aug-2022 09:40:07 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /home2/comeinit/public_html/test.php on line 4
