@@ -290,30 +290,15 @@ a:hover, a:focus, a:active {
     font-size: 30px;
     text-transform: uppercase;
     background: url(../img/logo.png) no-repeat left 100%;
-    top: -10px;
+    top: 24px;
     position: relative;
-    width: 80px;
-    height: 80px;
+    width: 220px;
+    height: 43px;
     text-indent: -999999px;
     -webkit-transition: .2s all;
     transition: .2s all;
 }
-.probootstrap-navbar .navbar-brandd {
-  padding-top: 0 !important;
-  padding-bottom: 0 !important;
-  font-size: 20px;
-  text-transform: uppercase;
-  top: 34px;
-  color:#ffffff;
-  position: relative;
-  width: 80px;
-  height: 80px;
-  font-weight: 900;
- 
-  text-indent: -999999px;
-  -webkit-transition: .2s all;
-  transition: .2s all;
-}
+
 @media screen and (max-width: 768px) {
     .probootstrap-navbar .navbar-brand {
         top: 0;
@@ -322,6 +307,23 @@ a:hover, a:focus, a:active {
         margin-bottom: 20px;
     }
 }
+@media screen and (max-width: 425px) {
+  .probootstrap-hero {
+      top: 0;
+      background-position: left 100%;
+      margin-top: 20px;
+      margin-bottom: 20px;
+  }
+}
+@media screen and (max-width: 768px) {
+  .probootstrap-hero {
+      top: 0;
+      background-position: left 100%;
+      margin-top: 20px;
+      margin-bottom: 20px;
+  }
+}
+
 
 @media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min--moz-device-pixel-ratio: 2), only screen and (min-device-pixel-ratio: 2), only screen and (min-resolution: 192dpi), only screen and (min-resolution: 2dppx) {
     .probootstrap-navbar .navbar-brand {
@@ -410,6 +412,8 @@ a:hover, a:focus, a:active {
     .probootstrap-navbar .navbar-nav > li.probootstra-cta-button > a {
         margin-bottom: 10px;
         margin-top: 0px;
+        padding:5px;
+
     }
 }
 
@@ -596,14 +600,21 @@ a:hover, a:focus, a:active {
 
 @media screen and (max-width: 1024px) {
     .probootstrap-hero .probootstrap-slider-text {
-        padding-top: 250px;
+        padding-top: 500px;
     }
 }
 
 @media screen and (max-width: 768px) {
     .probootstrap-hero .probootstrap-slider-text {
-        padding-top: 200px;
+        padding-top: 500px;
     }
+  
+}
+@media screen and (max-width: 425px) {
+  .probootstrap-hero .probootstrap-slider-text {
+      padding-top: 250px;
+      
+  }
 }
 
 .probootstrap-hero .probootstrap-slider-text h1 {
